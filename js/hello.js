@@ -2,7 +2,7 @@ Vue.createApp(
     {
         data:function(){
             return{
-                message : '皆さんこんにちは！'
+                message: '皆さんこんにちは！'
             };
         }
     }
